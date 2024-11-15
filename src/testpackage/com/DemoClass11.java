@@ -17,7 +17,7 @@ public class DemoClass11 {
 		System.out.println("Program exited.");
 	}
 }
-*/
+*////////////////////uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu//////////////////////////
 //Java program to find the sum of positive numbers using do-while loop
 
 public static void main(String[] args) 
